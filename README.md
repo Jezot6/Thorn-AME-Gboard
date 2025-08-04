@@ -2,10 +2,10 @@
 I put these Gboard dictionary files together to make using thorn(and eth if you want) easy in your everyday typing(if you use Gboard)
 
 To import dictionary:
-  Simply download the dictionary of your choice(TH-dict.txt for only thorn, TH-DH-dict.txt for both thorn and eth)
-  
-    It's easiest to import if you upload to Google Drive
-  Import the file into Gboard:
+
+    Simply download the dictionary of your choice(TH-dict.txt for only thorn, TH-DH-dict.txt for both thorn and eth)
+      It's easiest to import if you upload to Google Drive
+    Import the file into Gboard:
   
     For Android:
       Settings > System > Keyboard > On-screen keyboard > Gboard > Dictionary > Personal Dictionary > English > ⋮ > Import
