@@ -18,10 +18,10 @@ This should open Google Drive automatically; navigate to the dictionary file and
       
 To use:
   
-    Simply write words as usual, clicking the suggestions that pop up at the top of the keyboard when you type words with 'th'
+Simply write words as usual, clicking the suggestions that pop up at the top of the keyboard when you type words with 'th'
   -or-
   
-      Use an Icelandic keyboard with multilingual typing enabled, using thorn and/or eth, which will no longer be autocorrected or considered incorrect
+  Use an Icelandic keyboard with multilingual typing enabled, using thorn and/or eth, which will no longer be autocorrected or considered incorrect
 
 Enjoy ressurecting thorn!
   (and eth if you want)
