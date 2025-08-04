@@ -11,9 +11,10 @@ It's easiest to import if you upload to Google Drive
 
 Import the file into Gboard:
   
-    For Android:
-      Settings > System > Keyboard > On-screen keyboard > Gboard > Dictionary > Personal Dictionary > English > ⋮ > Import
-      This should open Google Drive automatically; navigate to the dictionary file and click it to open
+For Android:
+
+    Settings > System > Keyboard > On-screen keyboard > Gboard > Dictionary > Personal Dictionary > English > ⋮ > Import
+This should open Google Drive automatically; navigate to the dictionary file and click it to open
       
 To use:
   
